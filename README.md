@@ -1,5 +1,5 @@
 # NovoSoft-NoviX-Downloads
-Прямые ссылки для загрузки ПО, прошивок, документации и др. от ООО "НовоСофт".
+Прямые [ссылки](https://github.com/tutralex/NovoSoft-NoviX-Downloads/releases/tag/direct) для загрузки ПО, прошивок, документации и др. от ООО "НовоСофт".
 
 #### Результаты проверок исполняемых фйалов сервисом "VirusTotal":
 * ["NoviX Configurator" (Win32)](https://www.virustotal.com/gui/file/6fa0e45b7af9cef1286d60906d358f8b6dc06a75e57dd48cb808a0f732d6b33c/detection);
