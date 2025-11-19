@@ -2,8 +2,8 @@
 Прямые [ссылки](https://github.com/tutralex/NovoSoft-NoviX-Downloads/releases/tag/direct) для загрузки ПО, прошивок, документации и др. от ООО "НовоСофт".
 
 #### Результаты проверок исполняемых фйалов сервисом "VirusTotal":
-* ["NoviX Configurator" (Win32)](https://www.virustotal.com/gui/file/398a1c0169770ea6d6d7d0084cc8cb5c411b4de5ee86f51d36f6a107131530df/detection);
-* ["NoviX Configurator" (Win64)](https://www.virustotal.com/gui/file/53e6200fc763995675cd191897dde3b86c8fa0fbd5ed6137d4c6fc7136ec7422/detection);
+* ["NoviX Configurator" (Win32)](https://www.virustotal.com/gui/file/3375f32dc9a6deb34bc834f655d85e67bc03597aedc64bad469ca7bd56c652df/detection);
+* ["NoviX Configurator" (Win64)](https://www.virustotal.com/gui/file/1b4b3d4c3cfd784fa17adb2c8702dad47f985a34132f116871b05e0a0d905cdb/detection);
 * ["NoviX Flasher" (Linux64)](https://www.virustotal.com/gui/file/e5919e63474833046ab43f85aa4e19a8f3523d266c0a0c9566d90898c916c5da/detection);
 * ["NoviX Flasher" (Win32)](https://www.virustotal.com/gui/file/c5068a0a31c4cde497970884e3dbebc25b4413c8fd5d0b7789d685dcb7a23060/detection);
 * ["NoviX Flasher" (Win64)](https://www.virustotal.com/gui/file/5589206aa53d307d020ffe8466bdc503880a92da3e389830fc0f9af85b13d758/detection).
